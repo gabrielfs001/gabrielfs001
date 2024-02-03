@@ -1,7 +1,7 @@
 ### Hi, I'm Gabriel!
 
 I'm a Fullstack Software Developer. My specialty is web development **Javascript with AngularJS and React**. 
-I'm also have knowledge with Java using Spring and Quarkus.
+I also have knowledge with Java using Spring and Quarkus.
 
 
 #### Find me elsewhere
